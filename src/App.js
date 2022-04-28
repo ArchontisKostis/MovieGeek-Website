@@ -9,14 +9,6 @@ import SearchIcon from "./search.svg";
 
 const API_URL = 'https://www.omdbapi.com/?apikey=75ff6d03'
 
-const movie1 = {
-    "Title": "Ice Age 2: The Meltdown",
-    "Year": "2006",
-    "imdbID": "tt0438097",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwODg3OTAxMl5BMl5BanBnXkFtZTcwMjg2NjYyMw@@._V1_SX300.jpg"
-}
-
 const App = () => {
     const [movies, setMovies] = useState([]);
     const [searchTerm, setSearchTerm] = useState('');
