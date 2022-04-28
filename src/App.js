@@ -7,7 +7,7 @@ import MovieCard from "./movieCard";
 import './App.css';
 import SearchIcon from "./search.svg";
 
-const API_URL = 'http://www.omdbapi.com/?apikey=75ff6d03'
+const API_URL = 'https://www.omdbapi.com/?apikey=75ff6d03'
 
 const movie1 = {
     "Title": "Ice Age 2: The Meltdown",
