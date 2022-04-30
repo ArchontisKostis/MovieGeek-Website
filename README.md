@@ -1,9 +1,4 @@
 <div align="center">
-<<<<<<< HEAD
-    Movie Geek Website <img src="https://postimg.cc/cK1Sf5YM"></img>
-</div>
-
-=======
    <h1> <img src="https://i.postimg.cc/pdzLbwL7/g27498.png" height="30px"></img> Movie Geek Website  </h1>
 </div>
 
@@ -45,4 +40,4 @@ Live Site [URL](https://moviegeek.vercel.app/)
 
 
 ### Useful resources
->>>>>>> 5701ea89e7e9017d6acfa33cea4aaf103f3be984
+
