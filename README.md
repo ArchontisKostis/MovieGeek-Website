@@ -32,8 +32,8 @@ Live Site [URL](https://moviegeek.vercel.app/)
 ## My process
 
 ### Built with
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> <br>
-The website was made using [React.js](https://reactjs.org/).
+<a href="https://reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/></a>
+
 
 
 ### What I learned
